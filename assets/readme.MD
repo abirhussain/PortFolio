@@ -1,1 +1,1 @@
-# assets file is created
+# assets folder is created
